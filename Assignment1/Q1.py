@@ -1,6 +1,5 @@
 # Question 1: Smart Student Eligibility Checker
 
-# Taking inputs
 student_name = input("Enter student name: ")
 age = int(input("Enter age: "))
 percentage = float(input("Enter percentage: "))
@@ -23,3 +22,4 @@ print("Age:", age)
 print("Percentage:", percentage)
 print("Family Income:", family_income)
 print("Rural Area:", rural_area)
+
